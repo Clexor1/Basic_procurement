@@ -1,0 +1,34 @@
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\bin\Debug\Basic procuremen.exe.config
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\bin\Debug\Basic procuremen.exe
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\bin\Debug\Basic procuremen.pdb
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\bin\Debug\DBLayer.dll
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic Procuremen.csproj.AssemblyReference.cache
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic Procuremen.csproj.SuggestedBindingRedirects.cache
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.FrmLogin.resources
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.Properties.Resources.resources
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic Procuremen.csproj.GenerateResource.cache
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic Procuremen.csproj.CoreCompileInputs.cache
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic Procuremen.csproj.CopyComplete
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic procuremen.exe
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic procuremen.pdb
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.FrmCreateRequest.resources
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.FrmLeaderRequest.resources
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.FrmDisplayRequests.resources
+C:\Users\7417\source\repos\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.FrmAccountingRequests.resources
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\bin\Debug\Basic procuremen.exe.config
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\bin\Debug\Basic procuremen.exe
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\bin\Debug\Basic procuremen.pdb
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\bin\Debug\DBLayer.dll
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic Procuremen.csproj.AssemblyReference.cache
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic Procuremen.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.FrmAccountingRequests.resources
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.FrmCreateRequest.resources
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.FrmDisplayRequests.resources
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.FrmLeaderRequest.resources
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.FrmLogin.resources
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic_procuremen.Properties.Resources.resources
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic Procuremen.csproj.GenerateResource.cache
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic Procuremen.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic Procuremen.csproj.CopyComplete
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic procuremen.exe
+C:\Users\aleks\Downloads\Basic procuremen\Basic procuremen\obj\Debug\Basic procuremen.pdb
